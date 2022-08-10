@@ -1,15 +1,12 @@
-Hi 👋 My name is AlyssonFx
-=================================================================================================================================
-
+Hi 👋 I'm AlyssonFX
+--------
 Discord Enthusiast
 
 * 🌍  I'm based in Brasil
 * ⚙️ Servers and Bots Configurator
 * 🔦 Moderator and Senior Support
-* 🚕 Joined Discord há 4 anos
+* 🚕 Joined Discord `há 4 anos`
 * 🤝  I'm open to collaborating on support channels
-
-
 
 <a href="https://www.twitter.com/rodriguezfx_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rodriguezfx_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
