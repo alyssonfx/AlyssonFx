@@ -8,6 +8,8 @@
 * 🚕 Joined Discord `há 4 anos`
 * 🤝  I'm open to collaborating on support channels
 --------
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+--------
 ### Skills
 
 <p align="left">
