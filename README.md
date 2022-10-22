@@ -1,6 +1,6 @@
-Hi 👋 I'm AlyssonFx
---------
-Discord Enthusiast
+<h1 align="center"> Hi, i'm AlyssonFx 👋 </h1>
+
+> Discord Enthusiast
 
 * 🌍  I'm based in Brasil
 * ⚙️ Servers and Bots Configurator
