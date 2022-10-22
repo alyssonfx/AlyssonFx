@@ -8,6 +8,8 @@
 * 🚕 Joined Discord `há 4 anos`
 * 🤝  I'm open to collaborating on support channels
 --------
+![github stats](https://github-readme-stats.vercel.app/api?username=AlyssonFx)
+
 ### Skills
 
 <p align="left">
