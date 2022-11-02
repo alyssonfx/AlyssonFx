@@ -4,7 +4,7 @@ Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > Olá, sou o Alysson Rodrigues, de Teresina, Piauí. Faço curso técnico de informática e pretendo fazer universidade de Ciência da Computação. Estou imerso em especializar em front end development, design gráfico, design UI/UX e inglês. 📚 Matérias informática: Programação I - Banco de Dados - Análise de sistemas - Software livre - Programação Web Sou entusiasta no Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidade - tanto no Discord como Twitch.
 
 *   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [aqui](http://alyssonfx.netlify.app)
+*   🖥️  See my portfolio at [aqui](http://alyssonfx.gg)
 *   ✉️  You can contact me at [alyssonrcontato@gmail.com](mailto:alyssonrcontato@gmail.com)
 *   🧠  I'm learning programing, front end, UX & desing, data sciencer and devops.### Skills 
 <p align="left">
