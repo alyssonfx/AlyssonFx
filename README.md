@@ -1,12 +1,20 @@
-Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i`m AlyssonFx
+Hi, 👋 i`m AlyssonFx
 =================================================================================================================================
 
-> Olá, sou o Alysson Rodrigues, de Teresina, Piauí. Faço curso técnico de informática e pretendo fazer universidade de Ciência da Computação. Estou imerso em especializar em front end development, design gráfico, design UI/UX e inglês. 📚 Matérias informática: Programação I - Banco de Dados - Análise de sistemas - Software livre - Programação Web Sou entusiasta no Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidade - tanto no Discord como Twitch.
+> Olá, sou o Alysson Rodrigues, de Teresina, Piauí. Faço curso técnico de informática e pretendo fazer universidade de Ciência da Computação. 
 
-*   🌍  I'm based in Brazil
+> Estou imerso em especializar em front end development, design gráfico, design UI/UX e inglês. 
+
+> 📚 Matérias informática: Programação I - Banco de Dados - Análise de sistemas - Software livre - Programação Web 
+
+> Sou entusiasta no Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidade - tanto no Discord como Twitch.
+
+*   🌍  I'm from Brazil 
 *   🖥️  See my portfolio at [aqui](http://alyssonfx.gg)
 *   ✉️  You can contact me at [alyssonrcontato@gmail.com](mailto:alyssonrcontato@gmail.com)
-*   🧠  I'm learning programing, front end, UX & desing, data sciencer and devops.### Skills 
+*   🧠  I'm learning programing, front end, UX & desing, data sciencer and devops.
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,4 +38,4 @@ Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/alyssonfx"><img src="https://activity-graph.herokuapp.com/graph?username=alyssonfx&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/alyssonfx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/alyssofx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
