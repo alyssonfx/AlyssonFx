@@ -38,4 +38,8 @@ Hi, 👋 i`m AlyssonFx
 
 <a href="http://www.github.com/alyssonfx"><img src="https://activity-graph.herokuapp.com/graph?username=alyssonfx&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/alyssonfx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  
+  ![Snake animation](https://github.com/DeusDrizzyy/DeusDrizzyy/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
