@@ -1,21 +1,20 @@
 Hi, 👋 i`m AlyssonFx
 =================================================================================================================================
 
-> Olá, sou o Alysson Rodrigues, de Teresina, Piauí. Faço curso técnico de informática e pretendo fazer universidade de Ciência da Computação. 
+> Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Faço curso técnico de **Informática** e pretendo fazer _Universidade_ de **Ciência da Computação**. 
 
-> Estou imerso em especializar em front end development, design gráfico, design UI/UX e inglês. 
+> Estou imerso em especializar em **front end** development, **design gráfico**, design **UI/UX** e **inglês**. 
 
-> 📚 Matérias informática: Programação I - Banco de Dados - Análise de sistemas - Software livre - Programação Web 
+> 📚 **Matérias informática**: _Programação de computadores I - Banco de Dados - Análise de sistemas - Software livre - Programação Web_ 
 
-> Sou entusiasta no Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidade - tanto no Discord como Twitch.
+> Sou entusiasta do Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidade - tanto no Discord como Twitch.
 
 *   🌍  I'm from Brazil 
 *   🖥️  See my portfolio at [aqui](http://alyssonfx.gg)
 *   ✉️  You can contact me at [alyssonrcontato@gmail.com](mailto:alyssonrcontato@gmail.com)
 *   🧠  I'm learning programing, front end, UX & desing, data sciencer and devops.
-
-### Skills 
-<p align="left">
+------------------
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -23,14 +22,12 @@ Hi, 👋 i`m AlyssonFx
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <p>
-  
-### Socials
 
-<p align="left"> <a href="https://discord.com/users/790131872863879183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/alyssonfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rodriguezfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/alyssonfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/alyssonfx_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<div align="center">
 
-### Badges
+<a href="https://discord.com/users/790131872863879183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/alyssonfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rodriguezfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/alyssonfx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/alyssonfx_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 
-<b>My GitHub Stats</b>
+</div>
 
 <a href="http://www.github.com/alyssonfx"><img src="https://github-readme-stats.vercel.app/api?username=alyssonfx&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="alyssonfx's GitHub stats" /></a>
 
