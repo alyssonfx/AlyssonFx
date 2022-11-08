@@ -40,6 +40,6 @@ Hi, 👋 i`m AlyssonFx
 
 <div align="center">
   
-  ![Snake animation](https://github.com/DeusDrizzyy/DeusDrizzyy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Git](https://github.com/AlyssonFx/snakegithub/blob/main/snake.svg)
   
 </div>
