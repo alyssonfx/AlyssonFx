@@ -1,18 +1,19 @@
-Hi, 👋 i`m AlyssonFx
+Hi, i'm AlyssonFx 👋
 =================================================================================================================================
 
 > Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Faço curso técnico de **Informática** e pretendo fazer _Universidade_ de **Ciência da Computação**. 
 
-> Estou imerso em especializar em **front end** development, **design gráfico**, design **UI/UX** e **inglês**. 
+> Estou estudando e pretendo me especializar profissionalmente em **front end** development, **design gráfico**, design **UI/UX** e **inglês**. 
 
 > 📚 **Matérias informática**: _Programação de computadores I - Banco de Dados - Análise de sistemas - Software livre - Programação Web_ 
 
-> Sou entusiasta do Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidade - tanto no Discord como Twitch.
+> Sou entusiasta do Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidades - tanto no Discord como Twitch.
 
 *   🌍  I'm from Brazil 
 *   🖥️  See my portfolio at [aqui](http://alyssonfx.gg)
-*   ✉️  You can contact me at [alyssonrcontato@gmail.com](mailto:alyssonrcontato@gmail.com)
 *   🧠  I'm learning programing, front end, UX & desing, data sciencer and devops.
+*   ✉️  Você pode entrar em contato comigo em [alyssonrcontato@gmail.com](mailto:alyssonrcontato@gmail.com)
+
 ------------------
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
