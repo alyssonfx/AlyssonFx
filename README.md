@@ -1,13 +1,13 @@
-Hi, i'm AlyssonFx 👋
+Hello, I'm AlyssonFx 👋
 =================================================================================================================================
 
 > Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Faço curso técnico de **Informática** e pretendo fazer _Universidade_ de **Ciência da Computação**. 
 
-> Estou estudando e pretendo me especializar profissionalmente em **front end** development, **design gráfico**, design **UI/UX** e **inglês**. 
+> Estou estudando e pretendo me especializar profissionalmente em **front end**, **design gráfico**, design **UI/UX**. 
 
 > 📚 **Matérias informática**: _Programação de computadores I - Banco de Dados - Análise de sistemas - Software livre - Programação Web_ 
 
-> Sou entusiasta do Discord, configuro servidores e bots, Moderador e Suporte Sênior de comunidades - tanto no Discord como Twitch.
+> Sou entusiasta do Discord, configuro servidores e bots, Gerente, Moderador e Suporte Sênior de comunidades - tanto no Discord como Twitch.
 
 *   🌍  I'm from Brazil 
 *   🖥️  See my portfolio at [aqui](http://alyssonfx.gg)
@@ -33,8 +33,6 @@ Hi, i'm AlyssonFx 👋
 <a href="http://www.github.com/alyssonfx"><img src="https://github-readme-stats.vercel.app/api?username=alyssonfx&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="alyssonfx's GitHub stats" /></a>
 
 <a href="http://www.github.com/alyssonfx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alyssonfx&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/alyssonfx"><img src="https://activity-graph.herokuapp.com/graph?username=alyssonfx&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <div align="center">
   
