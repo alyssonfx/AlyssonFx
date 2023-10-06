@@ -1,12 +1,6 @@
-Hi, I'm AlyssonFx 👋
-===========================================
+## Hi, I'm AlyssonFx 👋
 
 Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Faço curso técnico de **Informática** e pretendo fazer _Universidade_ de **Ciência da Computação**. 
-
-Estou praticando e pretendo me especializar profissionalmente em **front end**, **design gráfico**, design **UI/UX**. 
-
-> 📚 **Matérias informática**:
-Arquitetura de computadores, Estruturação de dados, Lógica de programação, Sistemas operacionais, Programação de computadores 1 e 2, Banco de Dados, Análise de sistemas, Software livre (Linux), Programação p/ Web, Configuração e Manutenção de Computadores, Projeto de Desenvolvimento de Sistemas e Redes de computadores.
 
 ------------------
 <p align="center">
