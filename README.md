@@ -1,5 +1,3 @@
-Hi, I'm AlyssonFx 👋
-
 Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Estudante de Ciência da computação.
 
 ------------------
