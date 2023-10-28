@@ -13,7 +13,7 @@ Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Estudante de Ciênci
 
   ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=alyssonfx&theme=tokyonight&show_icons=true)</a>
 
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfx&theme=tokyonight)](https://github.com/alyssonfx/README.md)</a>
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfx&theme=tokyonight)](https://github.com/alyssonfx)</a>
 
 </div>
 
