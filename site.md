@@ -1,13 +1,24 @@
-### Olá, Alysson aqui! 👋
-Boas-vindas ao meu site pessoal. Conheça mais sobre mim.
-### Sobre mim ✏️
-👋 Olá! Meu nome é Alysson Rodrigues. Sou de Teresina, Piauí; atualmente estou cursando o terceiro ano do ensino médio integrado ao curso técnico de informática, também faço curso de Administração no Instituto Duarte.
-### 🔎 Conhecimento
+Olá, sou o **Alysson Rodrigues**, de **Teresina, Piauí**. Estudante de Ciência da computação.
 
+------------------
+  <p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  </p>
 
-### 📚 Estudos 
-Estou me preparando para o ENEM, pois tenho o objetivo de ingressar na faculdade de **Ciências da Computação**. Além disso, tenho muito interesse pelas áreas de Ciências Humanas e Ciências Sociais Aplicadas, pois acredito que essas áreas proporcionam um conhecimento fundamental para a _vida_ das pessoas.
-### 📝 Futuro
-Além dos estudos para o ENEM, também estou me preparando para concursos públicos. No entanto, também tenho o objetivo de ingressar na área da educação. Acredito que a educação é um dos pilares fundamentais para o desenvolvimento de um país e gostaria de contribuir de alguma forma nesse sentido. Também sempre admirei Empreendedorismo
-### 📌 Interesses
-Entretanto, tenho experiência e interesse nas áreas de Design, Gestão e UI/UX Design. Estou constantemente em busca de aprimorar minhas habilidades nesses campos, bem como minhas habilidades interpessoais; comunicação; trabalho em equipe e liderança. Acredito que o desenvolvimento dessas habilidades é fundamental para o sucesso em qualquer carreira que eu escolha seguir.
+<div align="center">
+
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=alyssonfx&theme=tokyonight&show_icons=true)</a>
+
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfx&theme=tokyonight)](https://github.com/alyssonfx)</a>
+
+</div>
+
+<div align="center">
+  
+  ![Snake Git](https://github.com/AlyssonFx/snakegithub/blob/main/snake.svg)
+  
+</div>
