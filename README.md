@@ -17,6 +17,6 @@
 
 <div align="center">
   
-  ![Snake Git](https://github.com/AlyssonFx/snakegithub/blob/main/snake.svg)
+![Snake Git](https://github.com/AlyssonFx/snakegithub/blob/main/snake.svg)
   
 </div>
