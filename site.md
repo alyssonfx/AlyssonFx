@@ -1,5 +1,5 @@
 Nome completo: Alysson Rodrigues Pereira Soares
-Idade: 18 anos - 31/03/2005
+<br>Idade: 18 anos - 31/03/2005
 - Discord:
   - @alyfx
   - Id: 1059674502876897320
