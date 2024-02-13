@@ -8,4 +8,7 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
 
 ### Experiência em Servidores
 - Nome do servidor: Sp4wn
-  - Sobre: Servidor de um ex-streamer e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor em que a Loud participava.
+  - Sobre: Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de RP em que a Loud participava.
+- Função: Moderador no Discord e Twitch.
+- Período: 2021 - 2023
+
