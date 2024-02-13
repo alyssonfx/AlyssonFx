@@ -1,7 +1,8 @@
-Nome: Alysson Rodrigues Pereira Soares
+Nome completo: Alysson Rodrigues Pereira Soares
 Idade: 18 anos - 31/03/2005
-User Discord: @alyfx
-Id: 1059674502876897320
+- Discord:
+ - @alyfx
+ - Id: 1059674502876897320
 
-### Sobre mim
-Olá, meu nome é Alysson, tenho 18 anos, e sou de Teresina, Piauí. Cursado em Informática e cursando Administração.
+Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de projetos comunitários inicialmente como moderador.
+
