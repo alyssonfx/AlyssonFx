@@ -6,3 +6,6 @@ Nome completo: Alysson Rodrigues Pereira Soares
 
 Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de projetos comunitários inicialmente como moderador.
 
+### Experiência em Servidores
+- Nome do servidor: Sp4wn
+  - Sobre: Servidor de um ex-streamer e Development Leader do [Cidade Alta RP](https://cidadealtarp.com)
