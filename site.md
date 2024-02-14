@@ -13,7 +13,7 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
   - Período: 2021 - 2023
 
 - Servidor: [Sersolis](https://sersolis.netlify.app)
-  - Sobre: Sersolis foi um servidor feito com Sieg, eu e mais uns membros da staff do Elixir Lab na época. Era oferecido serviços p/ Discord como confecção, design e desenvolvimento de bots.
+  - Sobre: Sersolis foi um servidor feito com Sieg, eu e mais uns membros da staff do Elixir Lab na época. Era oferecido serviços p/ Discord como confecção, design e desenvolvimento de bots e sites.
   - Função: Criar servidores • Coordenador de Projeto • UX Designer
   - Período: 2023
 
