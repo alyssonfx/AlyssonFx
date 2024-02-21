@@ -17,3 +17,17 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
   - Função: Criar servidores • Coordenador de Projeto • UX Designer
   - Período: 2023
 
+- Servidor: 
+  - Sobre: 
+  - Função: 
+  - Período:
+ 
+- Servidor: 
+  - Sobre: 
+  - Função: 
+  - Período:
+
+- Servidor: 
+  - Sobre: 
+  - Função: 
+  - Período: 
