@@ -17,10 +17,10 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
   - **Função:** Criar servidores • Coordenador de Projeto • UX Designer
   - Período: 2023
 
-- **Servidor:** 
-  - **Sobre:** 
-  - **Função:** 
-  - **Período:**
+- **Servidor:** [Elixir Lab](discord.gg/elixirlab)
+  - **Sobre:** Fui chamado para ingressar como Ajuda & Suporte em 2022, após ser visto ajudando nos canais comunitários além da presença em outros canais do servidor.
+  - **Função:** Gerente de Comunidade
+  - **Período:** 14/05/2022 - o momento
  
 - **Servidor:** 
   - **Sobre:** 
