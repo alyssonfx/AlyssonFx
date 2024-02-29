@@ -18,7 +18,7 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
   - Período: 2023
 
 - **Servidor:** [Elixir Lab](discord.gg/elixirlab)
-  - **Sobre:** Fui chamado para ingressar como Ajuda & Suporte em 2022, após ser visto ajudando nos canais comunitários além da presença em outros canais do servidor.
+  - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
   - **Função:** Gerente de Comunidade
   - **Período:** 14/05/2022 - o momento
  
