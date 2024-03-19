@@ -4,11 +4,11 @@ Nome completo: Alysson Rodrigues Pereira Soares
   - User: @alyssonfx
   - Id: 1059674502876897320
 
-Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de projetos comunitários, inicialmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
+Estou no Discord desde 2018, só em 2020 que comecei de fato a participar de projetos comunitários, principalmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
 
 ### Experiência em Servidores
 - **Servidor:** Sp4wn
-  - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de RP em que a Loud participava.
+  - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de GTA RP em que a Loud participava.
   - Função: Moderador no Discord e Twitch.
   - Período: 2021 - 2023
 
@@ -20,14 +20,14 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
 - **Servidor:** [Elixir Lab](discord.gg/elixirlab)
   - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
   - **Função:** Gerente de Comunidade
-  - **Período:** 14/05/2022 - o momento
+  - **Período:** 2022 - o momento
  
 - **Servidor:** Alô, Designers!
   - **Sobre:** Uma comunidade criada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
   - **Função:** Moderador
-  - **Período:** 2020 - 2020
+  - **Período:** 2020
 
-- **Servidor:** 
-  - **Sobre:** 
-  - **Função:** 
-  - Período: 
+- **Servidor:** file.exe
+  - **Sobre:** Comunidade de networking para editores de vídeo, tanto em dispositivos móveis quanto em computadores. Era um servidor privado com recrutamento mensal, onde os editores se reuniam para competições, compartilhar dicas e discutir diversos aspectos relacionados à edição de vídeos, incluindo compartilhar efeitos e técnicas de edição.
+  - **Função:** Coordenador de Projeto
+  - **Período:** 2020
