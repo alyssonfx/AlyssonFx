@@ -1,7 +1,7 @@
 Nome completo: Alysson Rodrigues Pereira Soares
 <br>Idade: 18 anos - 31/03/2005
 - Discord:
-  - User: @alyfx
+  - User: @alyssonfx
   - Id: 1059674502876897320
 
 Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de projetos comunitários, inicialmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
@@ -22,10 +22,10 @@ Estou no Discord desde 2018, mas só em 2020 que comecei de fato a participar de
   - **Função:** Gerente de Comunidade
   - **Período:** 14/05/2022 - o momento
  
-- **Servidor:** 
-  - **Sobre:** 
-  - **Função:** 
-  - **Período:**
+- **Servidor:** Alô, Designers!
+  - **Sobre:** Uma comunidade criada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
+  - **Função:** Moderador
+  - **Período:** 2020 - 2020
 
 - **Servidor:** 
   - **Sobre:** 
