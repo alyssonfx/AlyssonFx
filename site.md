@@ -26,8 +26,3 @@ Estou no Discord desde 2018, só em 2020 que comecei de fato a participar de pro
   - **Sobre:** Uma comunidade criada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
   - **Função:** Moderador
   - **Período:** 2020
-
-- **Servidor:** file.exe
-  - **Sobre:** Comunidade de networking para editores de vídeo, tanto em dispositivos móveis quanto em computadores. Era um servidor privado com recrutamento mensal, onde os editores se reuniam para competições, compartilhar dicas e discutir diversos aspectos relacionados à edição de vídeos, incluindo compartilhar efeitos e técnicas de edição.
-  - **Função:** Coordenador de Projeto
-  - **Período:** 2020
