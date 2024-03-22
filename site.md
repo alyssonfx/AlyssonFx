@@ -1,10 +1,10 @@
-Nome completo: Alysson Rodrigues Pereira Soares
-<br>Idade: 18 anos - 31/03/2005
-- Discord:
-  - User: @alyssonfx
-  - Id: 1059674502876897320
+**Nome completo:** Alysson Rodrigues Pereira Soares
+<br>**Idade:** 18 anos - 31/03/2005
+- **Discord:**
+  - **User:** @alyssonfx
+  - **ID:** 1059674502876897320
 
-Estou no Discord desde 2018, só em 2020 que comecei de fato a participar de projetos comunitários, principalmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
+> Estou no Discord desde 2018, só em 2020 que comecei de fato a participar de projetos comunitários, principalmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
 
 ### Experiência em Servidores
 - **Servidor:** Sp4wn
