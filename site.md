@@ -16,7 +16,7 @@
 ### Experiência Profissional
 - Auxiliar de Instrutor de Informática
   - Estágio
- 
+
 ### Competências
 - Discord
 - Notion
