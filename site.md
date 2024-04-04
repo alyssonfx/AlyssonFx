@@ -16,28 +16,7 @@
 ### Experiência Profissional
 - Auxiliar de Instrutor de Informática
   - Estágio
-
-### Experiência em Comunidades
-- **Servidor:** Sp4wn
-  - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de GTA RP em que a Loud [participava](https://ge.globo.com/esports/noticia/gta-5-rp-tudo-sobre-o-servidor-cidade-alta-da-loud.ghtml).
-  - Função: Moderador no Discord e Twitch.
-  - Período: 2021 - 2023
-
-- **Servidor:** [Sersolis](https://sersolis.netlify.app)
-  - **Sobre:** Sersolis foi um servidor feito com Sieg, eu e mais colegas de outros projetos. Era oferecido serviços p/ Discord como confecção, design e desenvolvimento de bots e sites.
-  - **Função:** Criar servidores • Coordenador de Projeto
-  - Período: 2023
-
-- **Servidor:** [Elixir Lab](https://discord.gg/elixirlab)
-  - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
-  - **Função:** Gerente de Comunidade
-  - **Período:** 2022 - o momento
  
-- **Servidor:** Alô, Designers!
-  - **Sobre:** Foi uma comunidade fechada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
-  - **Função:** Moderador
-  - **Período:** 2020
-
 ### Competências
 - Discord
 - Notion
@@ -53,3 +32,26 @@
 - Conhecimento de ferramentas e bots
 - Análise de métricas
 - Autodidata
+
+
+### Experiência em Comunidades
+- **Servidor:** Sp4wn
+  - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Desenvolvedor no [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de GTA RP em que a Loud [participava](https://ge.globo.com/esports/noticia/gta-5-rp-tudo-sobre-o-servidor-cidade-alta-da-loud.ghtml).
+  - Função: Moderador no Discord e Twitch.
+  - Período: 2021 - 2023
+
+- **Servidor:** [Sersolis](https://sersolis.netlify.app)
+  - **Sobre:** Sersolis foi um servidor feito com Sieg, eu e mais colegas de outros projetos. Era oferecido serviços p/ Discord como confecção, design e desenvolvimento de bots e sites.
+  - **Função:** Criar servidores • Coordenador de Projeto
+  - Período: 2023
+
+
+- **Servidor:** Alô, Designers!
+  - **Sobre:** Foi uma comunidade fechada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
+  - **Função:** Moderador
+  - **Período:** 2020
+
+- **Servidor:** [Elixir Lab](https://discord.gg/elixirlab)
+  - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
+  - **Função:** Gerente de Comunidade
+  - **Período:** 2022 - o momento
