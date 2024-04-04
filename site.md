@@ -34,8 +34,8 @@
   - **Período:** 2022 - o momento
  
 - **Servidor:** Alô, Designers!
-  - **Sobre:** Uma comunidade criada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
+  - **Sobre:** Foi uma comunidade fechada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
   - **Função:** Moderador
   - **Período:** 2020
-
-### Habilidades
+-------
+<p align="center">Disponibilidade para trabalhar manhã, tarde e noite, todos os dias da semana. Contate-me para enviar sua proposta.</p>
