@@ -28,7 +28,7 @@
   - **Função:** Criar servidores • Coordenador de Projeto
   - Período: 2023
 
-- **Servidor:** [Elixir Lab](discord.gg/elixirlab)
+- **Servidor:** [Elixir Lab](https://discord.gg/elixirlab)
   - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
   - **Função:** Gerente de Comunidade
   - **Período:** 2022 - o momento
