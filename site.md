@@ -38,5 +38,5 @@
   - **Função:** Moderador
   - **Período:** 2020
 -------
-<p align="center">Disponibilidade para trabalhar manhã, tarde e noite, todos os dias da semana.
+<p align="center">Disponibilidade para trabalhar manhã, tarde e noite, todos os dias da semana.</p>
 <p align="center">Contate-me para enviar sua proposta.</p>
