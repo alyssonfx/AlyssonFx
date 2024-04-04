@@ -17,7 +17,7 @@
 - Auxiliar de Instrutor de Informática
   - Estágio
 
-### Experiência em Servidores
+### Experiência em Comunidades
 - **Servidor:** Sp4wn
   - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de GTA RP em que a Loud [participava](https://ge.globo.com/esports/noticia/gta-5-rp-tudo-sobre-o-servidor-cidade-alta-da-loud.ghtml).
   - Função: Moderador no Discord e Twitch.
@@ -37,7 +37,5 @@
   - **Sobre:** Uma comunidade criada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
   - **Função:** Moderador
   - **Período:** 2020
-
-> Estou no Discord desde 2018, só em 2020 que comecei de fato a participar de projetos comunitários, principalmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
 
 ### Habilidades
