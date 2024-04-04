@@ -5,6 +5,18 @@
   - **User:** @alyssonfx
   - **ID:** 1059674502876897320
 
+### Formação
+- CEB Prof. James Azevedo
+  - Ensino Médio: Integrado ao Técnico
+    - Informática
+- Instituto Duarte Cursos e Preparatórios
+  - Curso Rotinas Administrativas + Informática Empresarial
+    - Período: 15/04/2023 - 27/04/2024
+
+### Experiência Profissional
+- Auxiliar de Instrutor de Informática
+  - Estágio
+
 ### Experiência em Servidores
 - **Servidor:** Sp4wn
   - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Development Leader do [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de GTA RP em que a Loud [participava](https://ge.globo.com/esports/noticia/gta-5-rp-tudo-sobre-o-servidor-cidade-alta-da-loud.ghtml).
