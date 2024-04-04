@@ -1,6 +1,6 @@
 **Nome completo:** Alysson Rodrigues Pereira Soares
 <br>**Idade:** 19 anos
-<br>**Contato:** alyssonrcontato@gmail.com
+<br>**E-mail:** alyssonrcontato@gmail.com
 - **Discord:**
   - **User:** @alyssonfx
   - **ID:** 1059674502876897320
