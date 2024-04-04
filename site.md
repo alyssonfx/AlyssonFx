@@ -37,6 +37,19 @@
   - **Sobre:** Foi uma comunidade fechada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
   - **Função:** Moderador
   - **Período:** 2020
--------
-<p align="center">Disponibilidade para trabalhar manhã, tarde e noite, todos os dias da semana.</p>
-<p align="center">Contate-me para enviar sua proposta.</p>
+
+### Competências
+- Discord
+- Notion
+- Trello
+- Pacote Office
+- Google Workspace
+
+### Habilidades
+- Gestão de Equipes
+- Configuração de canais e cargos
+- Moderação e gerenciamento de membros
+- Comunicação
+- Conhecimento de ferramentas e bots
+- Análise de métricas
+- Autodidata
