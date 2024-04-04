@@ -1,5 +1,5 @@
 **Nome completo:** Alysson Rodrigues Pereira Soares
-<br>**Idade:** 18 anos - 31/03/2005
+<br>**Idade:** 19 anos
 - **Discord:**
   - **User:** @alyssonfx
   - **ID:** 1059674502876897320
@@ -11,8 +11,8 @@
   - Período: 2021 - 2023
 
 - **Servidor:** [Sersolis](https://sersolis.netlify.app)
-  - **Sobre:** Sersolis foi um servidor feito com Sieg, eu e mais uns membros da staff do Elixir Lab na época. Era oferecido serviços p/ Discord como confecção, design e desenvolvimento de bots e sites.
-  - **Função:** Criar servidores • Coordenador de Projeto • UX Designer
+  - **Sobre:** Sersolis foi um servidor feito com Sieg, eu e mais colegas de outros projetos. Era oferecido serviços p/ Discord como confecção, design e desenvolvimento de bots e sites.
+  - **Função:** Criar servidores • Coordenador de Projeto
   - Período: 2023
 
 - **Servidor:** [Elixir Lab](discord.gg/elixirlab)
@@ -26,3 +26,5 @@
   - **Período:** 2020
 
 > Estou no Discord desde 2018, só em 2020 que comecei de fato a participar de projetos comunitários, principalmente como moderador tanto no Discord como também em plataformas de transmissão ao vivo: Facebook Gaming e Twitch.
+
+### Habilidades
