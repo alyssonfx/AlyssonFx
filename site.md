@@ -59,6 +59,6 @@ Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver
   - **Período:** 2022 - o momento
 
 ### Sociais
-- **LinkedIn:** [alyssonrds](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alyssonrds)
+- **LinkedIn:** [alyssonrds](https://www.linkedin.com/in/alyssonrds)
 - **Instagram:** [alyssonrdz](https://instagram.com/alyssonrdz)
 - **Twitter:** [alyssonfx_](https://x.com/alyssonfx_)
