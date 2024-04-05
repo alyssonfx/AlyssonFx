@@ -57,3 +57,8 @@ Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver
   - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
   - **Função:** Gerente de Comunidade
   - **Período:** 2022 - o momento
+
+### Sociais
+- **LinkedIn:** [alyssonrds](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alyssonrds)
+- **Instagram:** [alyssonrdz](https://instagram.com/alyssonrdz)
+- **Twitter:** [alyssonfx_](https://x.com/alyssonfx_)
