@@ -7,35 +7,6 @@
 
 Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver ativamente em comunidades, oferecendo suporte, moderação e gerenciando tanto no Discord quanto em plataformas de transmissão ao vivo, como o Facebook Gaming e Twitch.
 
-### Formação
-- CEB Prof. James Azevedo
-  - Ensino Médio: Integrado ao Técnico
-    - Informática
-- Instituto Duarte Cursos e Preparatórios
-  - Curso Rotinas Administrativas + Informática Empresarial
-    - Período: 15/04/2023 - 27/04/2024
-
-### Experiência Profissional
-- Auxiliar de Instrutor de Informática
-  - Estágio
-
-### Competências
-- Discord
-- Notion
-- Trello
-- Pacote Office
-- Google Workspace
-
-### Habilidades
-- Gestão de Equipes
-- Configuração de canais e cargos
-- Moderação e gerenciamento de membros
-- Comunicação
-- Conhecimento de ferramentas e bots
-- Análise de métricas
-- Autodidata
-
-
 ### Experiência em Comunidades
 - **Servidor:** Sp4wn
   - **Sobre:** Servidor de um [ex-streamer](https://tiktok.com/@thsp4wn) e Desenvolvedor no [Cidade Alta RP](https://cidadealtarp.com) - antigo servidor de GTA RP em que a Loud [participava](https://ge.globo.com/esports/noticia/gta-5-rp-tudo-sobre-o-servidor-cidade-alta-da-loud.ghtml).
@@ -57,6 +28,22 @@ Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver
   - **Sobre:** Fui convidado a me juntar à equipe de Ajuda & Suporte em 2022, reconhecido por minha contribuição nos canais comunitários e pela participação ativa em outros canais do servidor.
   - **Função:** Gerente de Comunidade
   - **Período:** 2022 - o momento
+
+### Competências
+- Discord
+- Notion
+- Trello
+- Pacote Office
+- Google Workspace
+
+### Habilidades
+- Gestão de Equipes
+- Configuração de canais e cargos
+- Moderação e gerenciamento de membros
+- Comunicação
+- Conhecimento de ferramentas e bots
+- Análise de métricas
+- Autodidata
 
 ### Sociais
 - **LinkedIn:** [alyssonrds](https://www.linkedin.com/in/alyssonrds)
