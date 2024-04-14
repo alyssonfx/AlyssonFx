@@ -8,6 +8,7 @@
 
 Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver ativamente em comunidades, oferecendo suporte, moderação e gerenciando tanto no Discord quanto em plataformas de transmissão ao vivo, como o Facebook Gaming e Twitch.
 
+
 ### Experiência em Comunidades
 
 - **Servidor:** [Elixir Lab](https://discord.gg/elixirlab)
@@ -25,10 +26,6 @@ Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver
   - **Função:** Criar servidores • Coordenador de Projeto
   - Período: 2023
 
-- **Servidor:** Alô, Designers!
-  - **Sobre:** Foi uma comunidade fechada para designers apoiar uns aos outros, com postagens e calls semanais, que inclui dicas e orientações sobre como lidar com clientes ou situações desafiadoras, estratégias para prospectar e outros tópicos relevantes.
-  - **Função:** Moderador
-  - **Período:** 2020
 
 ### Competências
 - Discord • Notion • Trello • Pacote Office • Google Workspace
