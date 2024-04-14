@@ -8,7 +8,7 @@
 
 
 ### Objetivo
-Buscar oportunidades para aplicar minhas habilidades em gestão de comunidades, moderação e expertise em Discord, contribuindo para o desenvolvimento e engajamento das comunidades, enquanto colaboro de forma proativa para o crescimento e sucesso da empresa em diversas áreas.
+Busco oportunidades para aplicar minhas habilidades em gestão de comunidades, moderação e expertise em Discord, contribuindo para o desenvolvimento e engajamento das comunidades, enquanto colaboro de forma proativa para o crescimento e sucesso da empresa em diversas áreas.
 
 ### Experiência em Comunidades
 
