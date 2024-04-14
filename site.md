@@ -6,8 +6,9 @@
   - **User:** @alyssonfx
   - **ID:** 1059674502876897320
 
-Estou no Discord desde 2018, porém foi apenas em 2020 que comecei a me envolver ativamente em comunidades, oferecendo suporte, moderação e gerenciando tanto no Discord quanto em plataformas de transmissão ao vivo, como o Facebook Gaming e Twitch.
 
+### Objetivo
+Adentrar ao mercado profissional
 
 ### Experiência em Comunidades
 
