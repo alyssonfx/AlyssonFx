@@ -32,4 +32,4 @@ Busco oportunidades para aplicar minhas habilidades em gestão de comunidades, m
 - Discord • Notion • Trello • Pacote Office • Google Workspace
 
 ### Habilidades
-- Gestão de Equipes • Configuração de canais e cargos • Moderação e gerenciamento de membros • Comunicação • Conhecimento de ferramentas e bots • Análise de métricas • Autodidata
+- Gestão de Equipes • Configuração de canais e cargos • Moderação e gerenciamento de membros • Comunicação • Conhecimento de ferramentas e bots • Análise de métricas
