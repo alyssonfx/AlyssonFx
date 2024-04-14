@@ -17,7 +17,7 @@ Busco oportunidades para aplicar minhas habilidades em gestão de comunidades, m
   - **Função:** Gerente de Comunidade
   - **Período:** 2022 - o momento
 
-- **Servidor:** Sp4wnhttps://tiktok.com/@thsp4wn
+- **Servidor:** Sp4wn
   - **Sobre:** Servidor de um streamer e Desenvolvedor no [Cidade Alta RP](https://cidadealtarp.com). 
   - Função: Moderador no Discord, Twitch e Facebook Gaming.
   - Período: 2021 - 2023
