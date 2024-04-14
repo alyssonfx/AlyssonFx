@@ -8,7 +8,7 @@
 
 
 ### Objetivo
-Adentrar ao mercado profissional
+Buscar oportunidades para aplicar minhas habilidades em gestão de comunidades, moderação e expertise em Discord, contribuindo para o desenvolvimento e engajamento das comunidades, enquanto colaboro de forma proativa para o crescimento e sucesso da empresa em diversas áreas.
 
 ### Experiência em Comunidades
 
@@ -17,7 +17,7 @@ Adentrar ao mercado profissional
   - **Função:** Gerente de Comunidade
   - **Período:** 2022 - o momento
 
-- **Servidor:** [Sp4wn](https://tiktok.com/@thsp4wn)
+- **Servidor:** Sp4wnhttps://tiktok.com/@thsp4wn
   - **Sobre:** Servidor de um streamer e Desenvolvedor no [Cidade Alta RP](https://cidadealtarp.com). 
   - Função: Moderador no Discord, Twitch e Facebook Gaming.
   - Período: 2021 - 2023
