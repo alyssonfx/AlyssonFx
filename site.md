@@ -1,6 +1,6 @@
 ## Alysson Rodrigues Pereira Soares
 <br>**Idade:** 19 anos
-<br>**E-mail:** [alyssonfx@hotmail.com](mailto:alyssonfx@hotmail.com)
+<br>**E-mail:** [contato.alyssonfx@gmail.com](mailto:contato.alyssonfx@gmail.com)
 <br>**LinkedIn:** [alyssonrds](https://www.linkedin.com/in/alyssonrds)
 - **Discord:**
   - **User:** @alyssonfx
